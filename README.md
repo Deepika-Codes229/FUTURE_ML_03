@@ -85,4 +85,5 @@ streamlit run app.py
 
 ## Developed By
 
-Your Name
+A Deepika
+
